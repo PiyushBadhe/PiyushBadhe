@@ -1,17 +1,17 @@
 ![MasterHead](https://quotefancy.com/media/wallpaper/3840x2160/7082-Theodore-Roosevelt-Quote-Believe-you-can-and-you-re-halfway-there.jpg)
 
 <h1 align="center">Hi👋 Welcome to my profile! I'm Piyush Badhe</h1>
-<h3 align="center">Data Scientist! A Data Explorer and Insighter</h3>
+<h3 align="center">Aspiring Data Scientist  |  Machine Learning  |  Artificial Intelligence</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piyushbadhe&label=Profile%20views&color=0e75b6&style=flat" alt="piyushbadhe" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=piyushbadhe" alt="piyushbadhe" /></a> </p>
 
-- 🤝 I’m looking forward to **Address opprtunities as a fresher Data Scientist and related positions about data!**
+- 🤝 I’m looking forward for *Opprtunities as a fresher* **Data Scientist**  |  **Machine Learning Engineer**  |  **Data Engineer**  | **Data Analyst**
 
 - 📫 Feel Free to Reach me @ **badhepiyuraj1997@gmail.com**
 
-- 📄 Any Opportunity to offer? Here's my Expertise you may look at--> [RESUME](https://drive.google.com/file/d/16rNolmcxgMvlCKByxpK64pHgEnHsIRz-/view?usp=sharing)
+- 📄 Any Opportunity to offer? Here's my Expertise you may need to know about--> [RESUME](https://drive.google.com/file/d/16rNolmcxgMvlCKByxpK64pHgEnHsIRz-/view?usp=sharing)
 
 
 <h3 align="left">Connect with me:</h3>

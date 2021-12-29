@@ -1,7 +1,7 @@
-[![MasterHead](https://quotefancy.com/media/wallpaper/3840x2160/7082-Theodore-Roosevelt-Quote-Believe-you-can-and-you-re-halfway-there.jpg)]
+![MasterHead](https://quotefancy.com/media/wallpaper/3840x2160/7082-Theodore-Roosevelt-Quote-Believe-you-can-and-you-re-halfway-there.jpg)
 
 <h1 align="center">Hi👋 Welcome to my profile! I'm Piyush Badhe</h1>
-<h3 align="center">Data Scientist! i.e. a Data Explorer and Insighter</h3>
+<h3 align="center">Data Scientist! A Data Explorer and Insighter</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piyushbadhe&label=Profile%20views&color=0e75b6&style=flat" alt="piyushbadhe" /> </p>
 
@@ -9,11 +9,10 @@
 
 - 🤝 I’m looking forward to **Address opprtunities as a fresher Data Scientist and related positions about data!**
 
-- 📫 Discuss about something? Can reach me @ **badhepiyuraj1997@gmail.com**
+- 📫 Feel Free to Reach me @ **badhepiyuraj1997@gmail.com**
 
-- 📄 Know about my expertise--> [https://drive.google.com/file/d/1c8gDWn3AZvqlKkEl0XcFH66Si-8BSWsa/view?usp=sharing](https://drive.google.com/file/d/1c8gDWn3AZvqlKkEl0XcFH66Si-8BSWsa/view?usp=sharing)
+- 📄 Any Opportunity to offer? Here's my Expertise you may look at--> [RESUME](https://drive.google.com/file/d/16rNolmcxgMvlCKByxpK64pHgEnHsIRz-/view?usp=sharing)
 
-- ⚡ Fun fact: **Working on Data gives birth to "new Data" :D**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

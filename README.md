@@ -46,19 +46,11 @@
 
 <div>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=piyushbadhe&show_icons=true&theme=tokyonight&locale=en" alt="piyushbadhe" />
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=piyushbadhe&theme=highcontrast" alt="piyushbadhe" />
-</div>
-
-
-<p>
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=piyushbadhe&theme=highcontrast" alt="piyushbadhe" />
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=piyushbadhe&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="piyushbadhe" />
-</p>
-
-
-<p>
   <a align="left" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=piyushbadhe" alt="piyushbadhe" /></a>
   <img align="right" src="https://komarev.com/ghpvc/?username=piyushbadhe&label=Profile%20views&color=00ad1d&style=plastic" alt="piyushbadhe" />
-</p>
+</div>
 
 <p align="left">
   <h3 align="left">Social Profiles:</h3>
